@@ -1,0 +1,11 @@
+server:
+  port: 8081
+test:
+  test1:
+    username: 1
+    password: 2
+    domg: gagfdgdf
+    asdfdgdf: fgd
+    terrvf: fdgfd
+    123ew: efff
+
